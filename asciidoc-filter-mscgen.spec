@@ -41,5 +41,6 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc asciidoc-mscgen-readme.{txt,html} images
+%dir /etc/asciidoc/filters/mscgen
 %attr(755,root,root) /etc/asciidoc/filters/mscgen/filter-wrapper.py
 /etc/asciidoc/filters/mscgen/mscgen-filter.conf
