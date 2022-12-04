@@ -5,10 +5,10 @@ Version:	1.2
 Release:	1
 License:	GPL v2
 Group:		Applications/Graphics
-#Source0Download: http://code.google.com/p/asciidoc-mscgen-filter/downloads/list
+#Source0Download: https://github.com/hwmaier/asciidoc-mscgen-filter/tags
 Source0:	http://asciidoc-mscgen-filter.googlecode.com/files/mscgen-filter-%{version}.zip
 # Source0-md5:	418b94e32bd247c3e93bfe0a3b55fee6
-URL:		http://code.google.com/p/asciidoc-mscgen-filter/
+URL:		https://github.com/hwmaier/asciidoc-mscgen-filter
 BuildRequires:	unzip
 Requires:	asciidoc >= 8.6.5
 # should be 0.21, but not released yet
