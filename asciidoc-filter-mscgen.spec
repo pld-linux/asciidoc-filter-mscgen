@@ -2,7 +2,7 @@ Summary:	mscgen filter for AsciiDoc
 Summary(pl.UTF-8):	Filtr mscgen do narzędzia AsciiDoc
 Name:		asciidoc-filter-mscgen
 Version:	1.2
-Release:	3
+Release:	4
 License:	GPL v2
 Group:		Applications/Graphics
 #Source0Download: https://github.com/hwmaier/asciidoc-mscgen-filter/tags
